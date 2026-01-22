@@ -2,6 +2,8 @@
 
 Tiling window manager for the [river](https://github.com/riverwm/river) wayland compositor, inspired by [dwm](https://dwm.suckless.org/) and [xmonad](https://xmonad.org/)
 
+Test PR trigger
+
 - Per-tag state
 - Master/stack(s) left, right and wide layouts
 - Monocle with alternate borders
